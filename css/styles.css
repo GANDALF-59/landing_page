@@ -1,0 +1,33 @@
+#brand_name
+{
+    font-size: 30px;
+}
+
+nav
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+
+#nav_opc
+{
+    display: flex;
+    gap: 40px;
+}
+
+main
+{
+    
+}
+
+#left_side_text
+{
+    padding: 50px;
+}
+
+#big_image
+{
+    padding: 100px;
+}
