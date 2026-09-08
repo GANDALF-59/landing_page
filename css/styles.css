@@ -5,6 +5,7 @@
 
 nav
 {
+    background-color: rgb(158, 156, 156);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -26,6 +27,14 @@ nav
 
 #left_side_text
 {
+    a
+    {
+        background-color: aqua;
+        color: white;
+        font-weight: bold;
+        font-size: 26px;
+        padding: 5px;
+    }
     width: 500px;
     padding-left: 150px;
 }
@@ -43,10 +52,11 @@ h2
     padding-right: 200px;
 }
 
-#botton_list_thing
+#bottom_list_thing
 {
-    display: flex;
-    justify-content: center;
+    /* display: flex;
+    justify-content: ; */
+    background-color: gray;
 }
 
 #services
@@ -66,5 +76,7 @@ h2
 .elements
 {
     text-align: center;
+    padding: 10px;
+    background-color: red;
 }
 
