@@ -17,17 +17,48 @@ nav
     gap: 40px;
 }
 
-main
+#top_part
 {
-    
+    display: flex;
+    justify-content: space-between;
 }
 
 #left_side_text
 {
-    padding: 50px;
+    width: 500px;
+    padding-left: 150px;
+}
+
+h2
+{
+    font-size: 55px;
+    font-weight: bold;
 }
 
 #big_image
 {
-    padding: 100px;
+    display: flex;
+    justify-content: right;
+    padding-right: 200px;
 }
+
+#botton_list_thing
+{
+    display: flex;
+    justify-content: center;
+}
+
+#services
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#services_list
+{
+    display: flex;
+    justify-content: center;
+     gap: 30px;
+}
+
