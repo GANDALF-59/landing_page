@@ -81,7 +81,9 @@ nav
     {
         display: flex;
         justify-content: right;
-        padding-right: 200px;
+        margin-top: 60px;
+        margin-right: 200px;
+        border-radius: 10px;
     }
 }
 
@@ -124,6 +126,3 @@ nav
         }
     }
 }
-
-
-
